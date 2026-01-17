@@ -26,7 +26,7 @@
 ## 📫 Contact
 
 ✉️ **Email** : mehdimoujib27@gmail.com
-💠 **LinkedIn** : https://www.linkedin.com/in/mehdi-moujib-4838ba309
+💠 **LinkedIn** : https://www.linkedin.com/in/mehdi-moujib
 
 ---
 
