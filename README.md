@@ -12,6 +12,7 @@
 - 🔐 **Systems**: Basic networking, Linux
 - 💻 **Programming**: Python, C, C++, Shell, JavaScript
 - 🌐 **Web**: HTML/CSS, Next.js, Flask, React
+- 🗺️ **Roadmap** : Ansible, Grafana, Promotheus, Kubernetes (currently learning)
 
 ---
 
